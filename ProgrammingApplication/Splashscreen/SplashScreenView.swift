@@ -1,10 +1,3 @@
-//
-//  SplashScreenView.swift
-//  ProgrammingApplication
-//
-//  Created by user on 31.10.2024.
-//
-
 import SwiftUI
 
 struct SplashScreenView: View {
